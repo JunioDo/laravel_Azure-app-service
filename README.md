@@ -17,7 +17,7 @@ This sample application is taken from the official [Laravel sample task list app
 
 ## License
 
-See [LICENSE](LICENSE).
+
 
 ## Contributing
 
